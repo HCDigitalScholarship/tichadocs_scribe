@@ -1,0 +1,13 @@
+#scripto-openlayers {
+    border: 1px solid #808080;
+    height: 600px;
+    margin-bottom: 12px;
+}
+#scripto-iframe {
+    border: none;
+    height: 600px;
+    width: 500px;
+}
+#scripto-transcription-page-html {
+    white-space: pre-wrap;
+}
